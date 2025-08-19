@@ -24,23 +24,13 @@ Foodprint-AI/
 ├── backend/          # Express + TypeScript
 ├── reewild-frontend/ # React + TypeScript
 └── README.md
-- Setup
-- bash
-- Copy
-- Edit
  **git clone https://github.com/radhikavarimadugu/FoodPrint-AI.git**
  **cd FoodPrint-AI**
 - Install dependencies in backend/ and reewild-frontend/, then run:
-
-- bash
-- Copy
-- Edit
 - npm run dev    **backend**
 - npm start      **frontend**
-
+- 
 **Future Scope**
 - Real carbon footprint APIs
-
 - Database & history tracking
-
 - Authentication & dashboards
